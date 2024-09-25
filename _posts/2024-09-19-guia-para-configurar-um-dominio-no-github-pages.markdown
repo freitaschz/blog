@@ -2,7 +2,7 @@
 layout: post
 title:  "Guia para configurar um domínio no GitHub Pages"
 date:   2024-09-19 13:00:00 -0300
-categories: github
+tags: github domínio
 ---
 
 Você sabia que dá para configurar um domínio próprio personalizado na sua página no GitHub Pages? 🤯
